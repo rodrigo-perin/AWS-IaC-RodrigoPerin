@@ -1,0 +1,2 @@
+[windows_servers]
+servidor_windows ansible_host=100.26.198.148

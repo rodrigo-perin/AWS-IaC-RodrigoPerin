@@ -1,6 +1,6 @@
 # **Atividade 04 - Melhores Práticas em DevOps**
 
-Este repositório foi criado para a Atividade 04 da disciplina "Melhores Práticas em DevOps".
+Este repositório foi criado por Rodrigo Perin para a Atividade 04 da disciplina "Melhores Práticas em DevOps".
 
 ## **Descrição**
 
