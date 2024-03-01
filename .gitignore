@@ -1,0 +1,11 @@
+.terraform
+.terraform.lock.hcl
+*.pem
+*.tfstate
+*.dll
+*.exe
+*.log
+*.out
+*.backup
+*.bak
+*.zip
