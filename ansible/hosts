@@ -1,2 +1,9 @@
 [WindowsServer]
-ec2-3-80-183-161.compute-1.amazonaws.com ansible_user=Administrator ansible_password=******* ansible_connection=winrm ansib~
+ec2-3-80-183-161.compute-1.amazonaws.com
+ansible_user=Administrator
+ansible_password=*********
+ansible_connection=winrm
+ansible_port=5986
+ansible_winrm_server_cert_validation=ignore
+ansible_winrm_scheme=https
+ansible_winrm_transport=ntlm
