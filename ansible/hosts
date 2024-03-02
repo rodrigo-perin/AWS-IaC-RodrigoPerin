@@ -1,2 +1,2 @@
-[windows_servers]
-servidor_windows ansible_host=100.26.198.148
+[WindowsServer]
+ec2-3-80-183-161.compute-1.amazonaws.com ansible_user=Administrator ansible_password=******* ansible_connection=winrm ansib~

@@ -1,8 +1,9 @@
 ---
 - name: Instalar IIS no servidor Windows
-  hosts: windows_servers
+  hosts: WindowsServers
   tasks:
     - name: Instalar recurso IIS
       win_feature:
         name: Web-Server
         state: present
+      become: yes
